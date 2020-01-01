@@ -790,6 +790,8 @@ var icon_names = [
     "curly-wing",
     "cursed-star",
     "curvy-knife",
+    "insanity",
+    "cthulhu-cool",
     "cut-diamond",
     "cut-palm",
     "cyborg-face",
